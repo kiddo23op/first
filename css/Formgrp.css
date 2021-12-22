@@ -1,0 +1,22 @@
+#tx{
+width:200px; 
+height:600px;}
+body{
+	background-image: url(../img/ok.JPG);
+	background-repeat: no repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+h1{
+	font-size: 40px;
+	font-family: sofia;
+	text-align: center;
+	background-color: lime;
+}
+p{
+	font-size: 30px;
+	text-shadow: 2px 2px 2px blue;
+}
+form{
+	font-size: 30px;
+}
